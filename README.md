@@ -8,5 +8,3 @@ It increments the propertyCount and adds the new property to the registry mappin
 
 The getProperty function allows users to retrieve the details of a registered property by providing its ID as a parameter.
 It performs a check to ensure the provided ID is valid and then returns the owner's address, name, description, and timestamp of the property.
-
-You can further extend this code with additional functionality as per your project requirements, such as adding access control, implementing transfer of ownership, or integrating it with a user interface.
